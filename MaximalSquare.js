@@ -59,8 +59,6 @@ function MaximalSquare(strArr) {
             }
         }
     }
-
-    return area; 
 }
 
 MaximalSquare(readline());
